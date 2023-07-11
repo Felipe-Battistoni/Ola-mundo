@@ -5,3 +5,5 @@
  Testando novas funções.
 
 Testando outras funções.
+
+Essa linha foi adicionada no GitHub.
